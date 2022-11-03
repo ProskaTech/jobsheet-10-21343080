@@ -1,3 +1,7 @@
+/*
+*Created by 21343080_Andi Sultan Al Ayyubi
+*/
+
 public class Android {
     public void nyala(){
         System.out.println("Android menyala");
