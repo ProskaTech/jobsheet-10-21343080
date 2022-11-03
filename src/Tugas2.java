@@ -1,3 +1,7 @@
+/*
+*Created by 21343080_Andi Sultan Al Ayyubi
+*/
+
 public class Tugas2 {
     String nama, semester;
     int nim, sks;
