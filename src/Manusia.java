@@ -1,3 +1,7 @@
+/*
+*Created by 21343080_Andi Sultan Al Ayyubi
+*/
+
 import java.util.Scanner;
 
 public class Manusia {
