@@ -1,3 +1,7 @@
+/*
+*Created by 21343080_Andi Sultan Al Ayyubi
+*/
+
 public class InformatikaUNP {
     public static void main(String[] args){
         Mahasiswa informatika = new Mahasiswa();
